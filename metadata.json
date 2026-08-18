@@ -1,0 +1,6 @@
+{
+  "name": "What If? — Financial & Life Scenario Simulator",
+  "description": "Interactive personal finance and life decision simulator. Explore how financial decisions change your future with scenarios, wealth projections, goals, and stress tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
